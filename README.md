@@ -42,7 +42,6 @@ CSV Veri Okuma - IMDB Top 250 listesi üzerinden film bilgileri
 1.Projeyi klonlayın:
 
 ```
-bash
 git clone https://github.com/kullanıcı_adı/Movidle.git
 cd Movidle
 ```
